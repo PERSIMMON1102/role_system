@@ -1,2 +1,5 @@
 # role_system
-一个前后端分离的项目
+一个前后端分离的权限管理系统项目
+前端用vue3+elementUI
+后端采用springboot+springsecurity+mybatisplus+mysql
+后端运行注意修改application.yaml下的图片默认路径和WebAppConfigurer.JAVA的本地路径
